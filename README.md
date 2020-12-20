@@ -11,3 +11,5 @@
 <a href="https://github.com/Krish-sysadmin/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krish-sysadmin&show_icons=true&theme=dracula" />
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-sysadmin)](https://github.com/Krish-sysadmin/github-readme-stats)
