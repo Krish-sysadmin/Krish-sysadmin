@@ -9,4 +9,4 @@
 
 
 
-![Krish Stats](https://github-readme-stats.vercel.app/api?username=Krish-sysadmin&show_icons=true&theme=dracula)
+![Krish Stats](https://github-readme-stats.vercel.app/api?username=Krish-sysadmin&show_icons=true&theme=dracula?style=centerme)
