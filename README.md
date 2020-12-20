@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋
 
 - 🔭 I’m currently working on an iOS game.
 - 🌱 I’m currently learning python.
