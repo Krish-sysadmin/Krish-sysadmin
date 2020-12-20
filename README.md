@@ -8,6 +8,6 @@
 - ⚡ Fun fact: Vim power user/ Linux enthusiast
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Krish-sysadmin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krish-sysadmin&show_icons=true&theme=dracula" />
 </a>
