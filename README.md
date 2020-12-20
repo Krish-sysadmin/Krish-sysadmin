@@ -7,3 +7,6 @@
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: Vim power user/ Linux enthusiast
 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Krish-sysadmin)](https://github.com/Krish-sysadmin/github-readme-stats)
