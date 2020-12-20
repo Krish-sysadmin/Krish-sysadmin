@@ -9,4 +9,4 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Krish-sysadmin)](https://github.com/Krish-sysadmin/github-readme-stats)
+![Krish Stats](https://github-readme-stats.vercel.app/api?username=Krish-sysadmin&show_icons=true&theme=drakula)
